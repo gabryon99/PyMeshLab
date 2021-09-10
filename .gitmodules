@@ -1,6 +1,6 @@
 [submodule "meshlab"]
 	path = src/meshlab
-	url = git://github.com/gabryon99/meshlab.git
+	url = ../../cnr-isti-vclab/meshlab
 [submodule "src/pymeshlab/pybind11"]
 	path = src/pymeshlab/pybind11
 	url = ../../pybind/pybind11.git
